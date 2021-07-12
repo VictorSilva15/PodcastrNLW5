@@ -22,7 +22,7 @@ Este projeto foi desenvolvido utilizando tecnologias de ponta de ponta.
 
 ### Requisitos
 
-- You need to install both [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) to run this project.
+- Você precisa instalar o [Node.js](https://nodejs.org/en/download/) e o [Yarn](https://yarnpkg.com/) para rodar a aplicação.
 
 **Clone o projeto e acesse a pasta**
 
