@@ -5,32 +5,32 @@ de SSG (Site Static Generator), SSR (Server Side redering) e SPA (Single Page Ap
 usamos o Next para criação de páginas estáticas, fizemos todo um sistema de reprodução de aúdio. Durante a imersão aplicamos bibliotecas como Axios e json-server para manipulação do "BackEnd".
 
 <h4 align="center">
-  Podcastr is a platform built for podcast broadcasting.
+ Podcastr é uma plataforma construída para transmissão de podcast.
 </h4>
 
 ![Podcastr preview](./screenshots/app-preview.png)
 
-## Tecnologies
+## Tecnologias
 
-This project was developed using cutting edge front-end technologies.
+Este projeto foi desenvolvido utilizando tecnologias de ponta de ponta.
 
 - [ReactJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
 
-## 💻 Getting started
+## 💻 Como Usar
 
-### Requirements
+### Requisitos
 
 - You need to install both [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) to run this project.
 
-**Clone the project and access the folder**
+**Clone o projeto e acesse a pasta**
 
 ```bash
 $ git clone https://github.com/VictorSilva15/podcastrNLW5.git && cd podcastr
 ```
 
-**Follow the steps below**
+**Siga os passos abaixo**
 
 ```bash
 # Install the dependencies
@@ -43,7 +43,7 @@ $ yarn server
 $ yarn dev
 ```
 
-will be available for access on your browser at `http://localhost:3000`
+A aplicação deverá ser aberta no browser em: `http://localhost:3000`
 
 ## 💪 Como contribuir para o projeto
 
